@@ -23,10 +23,4 @@ A small, open-source **React + TypeScript** project to create customizable long 
 ---
 
 
-## 💻 Installation
-
-1. Clone the repository:
-
-```bash
-git clone https://github.com/CaranDesign/long-shadow-generator.git
-cd long-shadow
+## Use it on longshadow.caran.it

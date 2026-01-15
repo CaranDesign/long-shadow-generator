@@ -63,7 +63,7 @@ export default function Home() {
         
         {/* Text Preview */}
         <div className="col-span-2">
-          <Card className="flex justify-center items-center overflow-hidden min-h-60" style={{backgroundColor:textBackground}}>    
+          <Card className="flex justify-center items-center overflow-hidden min-h-60 " style={{backgroundColor:textBackground}}>    
             <ShadowPreview
               shadowParams={shadowParams}
               textParams={textParams}

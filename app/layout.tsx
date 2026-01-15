@@ -16,8 +16,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Long Shadow",
-  description: "Genera la tua ombra per i tuoi elementi!",
+  title: "Long Shadow Generator",
+  description: "Generate JS Code for your custom long shadow!",
 };
 
 export default function RootLayout({
