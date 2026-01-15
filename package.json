@@ -7,7 +7,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/CaranDesign/long-shadow.git"
+    "url": "https://github.com/CaranDesign/long-shadow-generator.git"
   },
   "scripts": {
     "dev": "next dev",
